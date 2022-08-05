@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imagem__hero{
+    margin-top: 2rem;
+    height: 329.80px;
+    
+}
+
+.vendasLoja{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    gap: 35rem;
+}
+
+.vendas__item{
+    display: flex;
+}
+
+.ver__tudo{
+    margin-right: 15px;
+    color: blue;
+}
+
+.produtos{
+    align-items: center;
+    display: flex;
+    gap: 1.500rem;
+    margin-top: 1rem;
+    margin-left: 9rem;
+}
+
+.preco{
+    margin: 3px 0;
+}
+
+.ver__produto{
+    color: blue;
+}
+
+.imagem__produtos{
+    width: 156px;
+    height: 154px;
+}
+
+.cabecalho__itens{
+    margin-left: 115px;
+}
+
+.FaleConosco{
+    display: flex;
+    justify-content: space-around;
+    gap: 6rem;
+    background: rgba(0, 225, 255, 0.283);
+    margin-top: 3rem;
+}
+
+.Fale__conosco-items{
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.500rem;
+}
+
+.Fale__conosco{
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.nome__faleConosco{
+    width: 400px;
+    height: 30px;
+    margin-right: 110px;
+}
+
+.botao__faleConosco{
+    width: 120px;
+    height: 50px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    padding: 0.700rem;
+}

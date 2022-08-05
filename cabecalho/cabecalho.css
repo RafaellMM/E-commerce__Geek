@@ -1,0 +1,46 @@
+
+header{
+    margin-top: 2rem;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho__itens{
+    align-items: center;
+    display: flex;
+}
+
+.imagem__controle{
+    height: 29.17px;
+    margin-right: 0.500rem;
+    width: 40.02px;
+}
+
+.nome__cabecalho{
+    color: blue;
+}
+
+.geek{
+    margin-right: 1rem;
+}
+
+.navegacao__cabecalho{
+    border-radius: 15px;
+    background: rgb(221, 224, 224);
+    border-color: transparent;
+    height: 35px;
+    width: 300px;
+
+}
+
+.botao__cabecalho{
+    background: transparent;
+    border-radius: 3px;
+    border-color: blue;
+    color: blue;
+    height: 35px;
+    width: 100px;
+}
